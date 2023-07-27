@@ -12,7 +12,3 @@ yarn add -D https://github.com/Pe5h4/simple-library
 ## Dependencies
 
 - reactstrap
-
-```
-yarn add -D reactstrap
-```
